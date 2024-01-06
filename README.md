@@ -1,1 +1,1 @@
-# SST
+# weather-app-sst
